@@ -35,11 +35,25 @@ var config = {
         },
         {
             id: 'other-identifier',
-            title: 'Second Title',
+            title: 'Germany',
             image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'Germany makes good beer too.',
             location: {
-                center: [-77.020636, 38.886900],
+                center: [77.020636, 38.886900],
+                zoom: 13.5,
+                pitch: 60,
+                bearing: -43.2
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'other-identifier',
+            title: 'America',
+            image: './path/to/image/source.png',
+            description: 'America makes good beer too.',
+            location: {
+                center: [33.020636, 18.886900],
                 zoom: 13.5,
                 pitch: 60,
                 bearing: -43.2
