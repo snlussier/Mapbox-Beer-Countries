@@ -13,7 +13,7 @@ var config = {
             id: 'slug-style-id',
             title: 'Belgium',
             image: './path/to/image/source.png',
-            description: 'Belgium makes good beer',
+            description: 'Belgium is to beer what France is to wine or the Scottish Highlands is to whisky. It is the mother ship of brewing. If you understand the variations on beer making conconed hee on the north coast of Europe, you will be over halfway to appreciating the immense range of beers and forms that beer can assume.',
             location: {
               center: [4.57747, 50.73254],
               zoom: 6.43,
