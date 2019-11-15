@@ -11,7 +11,7 @@ var config = {
     chapters: [
         {
             id: 'slug-style-id',
-            title: 'Belgium',
+            title: 'Belgium with Flag',
             image: 'https://en.wikipedia.org/wiki/File:Flag_of_France.svg',
             description: 'Belgium is to beer what France is to wine or the Scottish Highlands is to whisky. It is the mother ship of brewing. If you understand the variations on beer making conconed hee on the north coast of Europe, you will be over halfway to appreciating the immense range of beers and forms that beer can assume.',
             location: {
