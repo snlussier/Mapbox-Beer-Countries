@@ -4,7 +4,7 @@ var config = {
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
-    title: 'The Title Text of this Story',
+    title: 'Beer Countries',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
     byline: 'By a Digital Storyteller',
     footer: 'Source: source citations, etc.',
